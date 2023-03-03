@@ -18,3 +18,7 @@ To install selenium:
 ```
 pip install selenium
 ```
+
+## Notes
+
+For now the program just loops until there is an error or the user stops execution (I use Ctrl + C in console to stop).
